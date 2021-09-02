@@ -1,5 +1,5 @@
 {
-    "name": "andrii/test-package",
+    "name": "andrii_ajax/test-package",
     "autoload": {
         "psr-4": {
             "Andrii\\Test\\": "src/"
