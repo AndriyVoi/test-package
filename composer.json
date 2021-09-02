@@ -1,0 +1,15 @@
+{
+    "name": "mac/test-package",
+    "autoload": {
+        "psr-4": {
+            "Andrii\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "andrii",
+            "email": "vav3099@gmail.com"
+        }
+    ],
+    "require": {}
+}
